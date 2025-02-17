@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Financial Management System
+🔭 I’m currently working on **Financial Management System**  
 
-- 🌱 I’m currently learning DevOps (AWS, Docker)
+- 🌱 I’m currently learning **DevOps (AWS, Docker)**
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
