@@ -25,7 +25,7 @@ I am an evolving Software Engineer<br>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/samuel.ehnimely) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15742535) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nimelythegreat) 
 
-# 💻 Technologies I work with:
+<!-- # 💻 Technologies I work with:
 [![CSS3](https://img.shields.io/badge/--%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](#) 
 [![Java](https://img.shields.io/badge/--%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#) 
 [![HTML5](https://img.shields.io/badge/--%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#) 
@@ -62,6 +62,17 @@ I am an evolving Software Engineer<br>
 ![](https://github-readme-stats.vercel.app/api?username=nimely111&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nimely111&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nimely111&theme=transparent&hide_border=false)<br/>
+-->
+### 🛠️ Technologies & Tools
+
+| Frontend | Backend | Databases | DevOps & Tools |
+|----------|---------|-----------|----------------|
+| [![HTML5](https://img.shields.io/badge/--%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#) | [![Python](https://img.shields.io/badge/-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#) | [![PostgreSQL](https://img.shields.io/badge/-postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#) | [![Git](https://img.shields.io/badge/-git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#) |
+| [![CSS3](https://img.shields.io/badge/--%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](#) | [![Django](https://img.shields.io/badge/--%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](#) | [![MongoDB](https://img.shields.io/badge/-MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](#) | [![GitHub](https://img.shields.io/badge/-github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#) |
+| [![JavaScript](https://img.shields.io/badge/--%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#) | [![FastAPI](https://img.shields.io/badge/-005571?style=for-the-badge&logo=fastapi)](#) | [![Redis](https://img.shields.io/badge/-redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](#) | [![AWS](https://img.shields.io/badge/-AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](#) |
+| [![React](https://img.shields.io/badge/-react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#) | [![Django REST](https://img.shields.io/badge/-DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)](#) | [![SQLite](https://img.shields.io/badge/-sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](#) | [![Windows Terminal](https://img.shields.io/badge/--%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)](#) |
+| [![Vite](https://img.shields.io/badge/-vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](#) | [![Flask](https://img.shields.io/badge/-flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](#) |  | [![Bash](https://img.shields.io/badge/--%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](#) |
+
 
 
 ## 🏆 GitHub Trophies
