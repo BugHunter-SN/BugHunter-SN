@@ -25,7 +25,7 @@ I am an evolving Software Engineer<br>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/samuel.ehnimely) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15742535) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nimelythegreat) 
 
-# 💻 Tech Stack:
+# 💻 Technologies I work with:
 [![CSS3](https://img.shields.io/badge/--%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](#) 
 [![Java](https://img.shields.io/badge/--%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#) 
 [![HTML5](https://img.shields.io/badge/--%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#) 
