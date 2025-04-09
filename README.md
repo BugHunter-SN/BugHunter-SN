@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 I am an evolving Software Engineer<br>
-[![Top GitHub Contributor in Liberia](https://img.shields.io/badge/GitHub%20Top%20Committer-Liberia%20%231-blueviolet?logo=github&style=flat-square)](https://commits.toino.pt/LR/contribs/)
+[![nimely111 – #1 GitHub Committer in Liberia](https://img.shields.io/badge/nimely111-%231%20Committer%20in%20Liberia-blueviolet?logo=github&style=flat-square)](https://commits.toino.pt/LR/contribs/)
 
 
 
