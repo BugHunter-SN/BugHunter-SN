@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 I am an evolving Software Engineer<br>
+[![committers.top badge](https://user-badge.committers.top/LR/nimely111.svg)](https://committers.top/lr)
 
 
 ## 🌐 Socials:
